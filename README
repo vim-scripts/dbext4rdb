@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2011
+
+For vim on Open VMS look at http://www.polarhome.com/vim/
+For Open VMS http://h71000.www7.hp.com/openvms/
+
+The "official" dbext 5.11 release (and any future ones) has incorporated the
+Oracle Rdb Open VMS support.  Please refer to the dbext homepage for further
+updates:
+http://vim.sourceforge.net/scripts/script.php?script_id=356
+
+
+If DBEXT_506_RDB.ZIP was installed, please verify it was not installed into
+any of the vim70 or vim71 directories.  All plugins should be installed into
+the .vim (Unix) or vimfiles (Windows) directories.  If you find any of the
+dbext files in the vim7x directories, please remove these before installing
+the official version.
+
